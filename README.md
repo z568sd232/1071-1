@@ -7,7 +7,7 @@ week2
 * myclass.html
 
 week3
-* tku60.html
+* tku60.html}
 * div.html
 
 week4
@@ -17,3 +17,6 @@ week4
 
 week5
 * imagegallery.html, imagegallery.css
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MDk4ODc2MzldfQ==
+-->
