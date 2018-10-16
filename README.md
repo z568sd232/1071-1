@@ -1,6 +1,6 @@
 # 1071-1
 ## week1
-* intro.html
+* [intro.html](https://github.com/htchung/1071-C-programming/tree/master/w01/welcome.cpp)
 
 ## week2
 * table.html
@@ -18,5 +18,6 @@
 ## week5
 * imagegallery.html, imagegallery.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzMTg1NDQ2LDU5ODcwMTU2OF19
+eyJoaXN0b3J5IjpbMzQxOTE4NjY3LDQxMzE4NTQ0Niw1OTg3MD
+E1NjhdfQ==
 -->
