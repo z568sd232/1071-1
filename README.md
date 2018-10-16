@@ -3,7 +3,7 @@
 * [intro.html](https://github.com/z568sd232/1071-1/blob/master/w01/intro.html)
 
 ## week2
-* table.html
+* [table.html]
 * myclass.html
 
 ## week3
@@ -18,6 +18,6 @@
 ## week5
 * imagegallery.html, imagegallery.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI0MDE4MzYsMzQxOTE4NjY3LDQxMz
-E4NTQ0Niw1OTg3MDE1NjhdfQ==
+eyJoaXN0b3J5IjpbMTQ4MjExNjQxNiwzNDE5MTg2NjcsNDEzMT
+g1NDQ2LDU5ODcwMTU2OF19
 -->
