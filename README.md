@@ -1,23 +1,19 @@
 # 1071-1
-## week1
-* [intro.html](https://github.com/z568sd232/1071-1/blob/master/w01/intro.html)
+week1
+* intro.html
 
-## week2
-* [table.html](https://github.com/z568sd232/1071-1/blob/master/w02/table.html)
-* [myclass.html](https://github.com/z568sd232/1071-1/blob/master/w02/myclass.html)
+week2
+* table.html
+* myclass.html
 
-## week3
-* [tku60.html](https://github.com/z568sd232/1071-1/blob/master/w03/tku60.html)
-* [div.html](https://github.com/z568sd232/1071-1/blob/master/w03/div.html)
+week3
+* tku60.html
+* div.html
 
-## week4
-* [TTT.html](https://github.com/z568sd232/1071-1/blob/master/w04/TTT.html), TTT.css
-* [blog.html](https://github.com/z568sd232/1071-1/blob/master/w04/blog.html), blog.css
-* [progile.html](https://github.com/z568sd232/1071-1/blob/master/w04/progile.html)
+week4
+* TTT.html, TTT.css
+* blog.html, blog.css
+* progile.html
 
-## week5
-* [imagegallery.html](https://github.com/z568sd232/1071-1/blob/master/w05/Imagegallery/imagegallery.html), imagegallery.css
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODIzMjk2MywzNDE5MTg2NjcsNDEzMT
-g1NDQ2LDU5ODcwMTU2OF19
--->
+week5
+* imagegallery.html, imagegallery.css
