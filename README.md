@@ -16,8 +16,8 @@
 * [progile.html](https://github.com/z568sd232/1071-1/blob/master/w04/progile.html)
 
 ## week5
-* [imagegallery.html](https://github.com/z568sd232/1071-1/blob/master/w01/intro.html), imagegallery.css
+* [imagegallery.html](https://github.com/z568sd232/1071-1/blob/master/w05/Imagegallery/imagegallery.html), imagegallery.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDgzNzQ4LDM0MTkxODY2Nyw0MTMxOD
-U0NDYsNTk4NzAxNTY4XX0=
+eyJoaXN0b3J5IjpbLTg3ODIzMjk2MywzNDE5MTg2NjcsNDEzMT
+g1NDQ2LDU5ODcwMTU2OF19
 -->
