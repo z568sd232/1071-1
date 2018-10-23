@@ -7,19 +7,19 @@
     max-width: 700px;
 }
 
-h2{
+#blog h2{
     font-size: 2rem;
 }
-.quote{
+#blog .quote{
     border-left: 5px solid #bdc3c7;
     padding-left: 5px
 }
-.date{
+#blog .date{
     color: #5096d3;
     text-transform: uppercase;
     letter-spacing: 0.2rem
 }
-hr{
+#blog hr{
     border-top: 1px solid rgba(0,0,0,0.1);
     border-bottom: 1px solid rgba(255,255,255,0.1);
     border-left: 1px solid rgba(255,255,255,0.1);
