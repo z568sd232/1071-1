@@ -17,6 +17,12 @@
 
 ## week5
 * [imagegallery.html](https://github.com/z568sd232/1071-1/blob/master/w05/Imagegallery/imagegallery.html), imagegallery.css
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDg4OTkzOF19
--->
+
+## week6
+* [pet.html](https://github.com/z568sd232/1071-1/blob/master/w05/pet.html),pet.css
+
+## week7
+* [galleryTemplate.html](https://github.com/z568sd232/1071-1/blob/master/w07/galleryTemplate.html)
+
+## week8
+* [index.html](https://github.com/z568sd232/1071-1/blob/master/w08/index.html)
